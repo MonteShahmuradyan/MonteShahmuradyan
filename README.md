@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi🙋‍♂️Welcome to my Github channel.<br>My name is Monte, I am a Python Developer, AI/Machine Learning Engineer.<br>I am passionate of the Future Technologies.<br>It is so great to build Data-driven solutions and AI(Neural Network).
-
 Soon You will be able to find more in my Github channel, as I improve it weekly with the progress I am going through. <br><br>
 
 
